@@ -1,0 +1,84 @@
+\begin{thebibliography}{10}
+
+\bibitem{ref6}
+Jennifer~Petoff Betsy~Beyer, Chris~Jones and Niall~Richard Murphy.
+\newblock Site reliability engineering o'reilly, Mars 2016.
+\newblock Livre expliquant le Site Reliability Engeering.
+
+\bibitem{ref9}
+Alex C.~Snoeren California Fault Lines: Understanding the Causes andImpact~of
+  Network FailuresDaniel~Turner, Kirill~Levchenko.
+\newblock California fault lines: Understanding the causes andimpact of network
+  failures, September 2010.
+\newblock Le lien du site web pour les sources
+  $https://cseweb.ucsd.edu/~klevchen/tlss-sigcomm10.pdf$.
+
+\bibitem{ref13}
+OpenJS Foundation.
+\newblock Site officiel du cadriciel nodejs, August 2020.
+\newblock Le lien du site web officiel de node $https://nodejs.org/en/$.
+
+\bibitem{ref17}
+Google.
+\newblock best pratice size docker image, August 2020.
+\newblock Le lien du site web officiel
+  d$https://cloud.google.com/solutions/best-practices-for-building-containers$.
+
+\bibitem{ref12}
+Google.
+\newblock Site officiel du cadriciel angular, August 2020.
+\newblock Le lien du site web officiel d'angular $https://angular.io/$.
+
+\bibitem{ref7}
+Sources gouvernement français.
+\newblock Loi relative à la protection des données personnelles, Mai 2018.
+\newblock Le lien du site web pour les sources
+  $https://www.economie.gouv.fr/files/files/directions_services/dgccrf/documentation/fiches_pratiques/fiches/RGPD-septembre-2018.pdf$.
+
+\bibitem{ref20}
+Elisabetta Di Nitto1 Michele Guerriero1 Damian Andrew~Tamburri1 Matej Arta~c2,
+  Tadej Borov~sak2.
+\newblock Devops: Introducing infrastructure-as-code.
+
+\bibitem{ref8}
+MicroFocus.
+\newblock Performance monitoring best practices guide, February 2018.
+\newblock Le lien du site web pour les sources
+  $https://help.sap.com/doc/a43c319c728c4d3b91156c4f8e6669b6/12.60/en-US/LoadRunner_PerfCenter_Perf_Monitoring_BestPractices_12.60.pdf$.
+
+\bibitem{ref16}
+Au~moment de la configuration~de Prometheus.
+\newblock on lui donne les elements necessaire pour lui dire ou, scraper les
+  informations et à quel moment les scraper.
+
+\bibitem{ref22}
+ndjson.
+\newblock Ndjson on github • based on a theme by jason long • site forked
+  from jsonlines.org.
+\newblock Site web officiel expliquant le fonctionement des fichier ndjson
+  $http://ndjson.org/$.
+
+\bibitem{ref15}
+James Turnbull.
+\newblock The docker book, August 2019.
+
+\bibitem{ref19}
+James Turnbull.
+\newblock Installation configuration et les principaux d'elasticsearch, June
+  2019.
+\newblock Un bon livre expliquant le fonctionnement de Prometheus.
+
+\bibitem{ref18}
+Zenika.
+\newblock Installation configuration et les principaux d'elasticsearch, August
+  2013.
+\newblock Ce tutoriel explique le fonctionnement d'elasticsearch
+  $elasticsearch.developpez.com/tutoriels/java/installation-configuration-elasticsearch/$.
+
+\bibitem{ref21}
+Zenika.
+\newblock Amazon web services: Overview of securityprocesses, March 2020.
+\newblock Customers are responsible for making their own independent assessment
+  of the information in this document.
+
+\end{thebibliography}
